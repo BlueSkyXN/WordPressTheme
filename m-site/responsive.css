@@ -1,0 +1,145 @@
+/* Responsive CSS Style */
+@media only screen and (max-width: 1180px) {
+  .top-notice {
+    display: none;
+  }
+}
+
+@media only screen and (min-width: 750px) {
+  #primary-nav.menu_column_4 ul li {
+    width: 12.5%;
+  }
+}
+
+/* All Mobile Sizes (devices and browser) */
+@media only screen and (max-width: 749px) {
+  #primary-menu {
+    padding: 8px 0;
+  }
+  #primary-menu li {
+    margin: 0;
+    text-align: center;
+  }
+  #primary-menu li a {
+    font-size: 0.9em;
+  }
+  #primary-nav.flexible-menu #primary-menu {
+    padding-left: 12px;
+    padding-right: 0;
+  }
+  #primary-nav.flexible-menu ul li {
+    margin-right: 12px;
+  }
+  .single #primary .entry-footer .entry-tags {
+    float: none;
+  }
+  .single #primary .entry-footer .entry-tags .tag-links span {
+    display: none;
+  }
+  .single #primary .entry-footer .entry-footer-right {
+    float: none;
+    margin-top: 10px;
+  }
+  .custom-share:before {
+    display: none;
+  }
+  .comment-form .comment-form-author,
+  .comment-form .comment-form-email,
+  .comment-form .comment-form-url {
+    width: 100%;
+  }
+  .footer-columns {
+    display: none;
+  }
+  .error-404 .page-content .search-form input.search-field {
+    width: 200px;
+  }
+}
+
+/* Mobile Landscape Size to Tablet Portrait (devices and browsers) */
+@media only screen and (min-width: 480px) and (max-width: 748px) {
+  .content-list .thumbnail-link {
+    width: 32%;
+    margin-right: 15px;
+  }
+  .content-list .entry-title {
+    font-size: 1.1em;
+    margin-bottom: 8px;
+  }
+  .content-list .gallery-list {
+    margin: 10px 0 0;
+  }
+}
+
+/* Mobile Portrait Size to Mobile Landscape Size (devices and browsers) */
+@media only screen and (max-width: 479px) {
+  .site-title {
+    font-size: 24px;
+  }
+  #featured-slider .featured-slide .entry-header {
+    padding: 10px;
+  }
+  #featured-slider .featured-slide .entry-title {
+    font-size: 1.1em;
+  }
+  .single .site-main,
+  #site-bottom {
+    padding: 10px;
+  }
+  .content-list .thumbnail-link {
+    width: 32%;
+    margin: 0 10px 0 0;
+  }
+  .content-list .entry-title {
+    font-size: 1em;
+    margin-bottom: 5px;
+  }
+  .content-list .gallery-list {
+    margin: 10px 0 0 0;
+  }
+  .content-list .entry-meta .entry-date,
+  .content-list .entry-meta .entry-like,
+  .content-list .entry-meta .entry-comment {
+    margin-left: 0;
+    margin-right: 10px !important;
+  }
+  .single .entry-header .entry-meta .bdsharebuttonbox,
+  .related-content .entry-meta {
+    display: none;
+  }
+  .pagination .page-numbers {
+    font-size: 13px;
+    padding: 0 6px;
+    height: 30px;
+    line-height: 30px;
+  }
+  .page-title,
+  .single h1.entry-title,
+  .page h1.entry-title {
+    font-size: 1.2em;
+  }
+  .single .gallery-slider li img {
+    margin-bottom: 0;
+  }
+  .single .gallery-slider li .image-desc {
+    background-color: #333;
+    position: static;
+    padding-left: 3%;
+    padding-right: 3%;
+    width: 94%;
+  }
+  #comments .comment-metadata,
+  .comment-respond .comment-metadata {
+    display: none;
+  }
+  .related-content .entry-title {
+    font-size: 1em;
+    margin: 0;
+  }
+}
+
+@media only screen and (max-width: 359px) {
+  .content-list .entry-title {
+    margin-bottom: 1px;
+  }
+}

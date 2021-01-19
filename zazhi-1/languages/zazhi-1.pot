@@ -1,0 +1,506 @@
+# Copyright (C) 2016 Automattic
+# This file is distributed under the GNU General Public License v2 or later.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: zazhi-1 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/tags/_s\n"
+"POT-Creation-Date: 2018-07-27 21:31+0800\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2015-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: Zhutibaba <support@zhutibaba.com>\n"
+"X-Generator: Poedit 2.0.5\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;esc_html_e;esc_html\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:17
+msgid "未找到页面"
+msgstr ""
+
+#: 404.php:35
+msgid "常用分类目录"
+msgstr ""
+
+#: admin/customizer-options.php:47
+msgid "杂志一号主题设置"
+msgstr ""
+
+#: admin/customizer-options.php:53
+msgid "图标（Logo）"
+msgstr ""
+
+#: admin/customizer-options.php:61
+msgid "站点图标（显示在浏览器标签）"
+msgstr ""
+
+#: admin/customizer-options.php:69
+msgid "主题配色一"
+msgstr ""
+
+#: admin/customizer-options.php:77
+msgid "主题配色二"
+msgstr ""
+
+#: admin/customizer-options.php:84
+msgid "网站布局"
+msgstr ""
+
+#: admin/customizer-options.php:93
+msgid "在网站顶部右侧显示搜索框"
+msgstr ""
+
+#: admin/customizer-options.php:101
+msgid "移动设备导航菜单文字"
+msgstr ""
+
+#: admin/customizer-options.php:104
+msgid "菜单"
+msgstr ""
+
+#: admin/customizer-options.php:109
+msgid "在首页显示置顶文章"
+msgstr ""
+
+#: admin/customizer-options.php:117
+msgid "显示置顶文章飘带"
+msgstr ""
+
+#: admin/customizer-options.php:125
+msgid "置顶文章飘带文字"
+msgstr ""
+
+#: admin/customizer-options.php:128
+msgid "置顶文章"
+msgstr ""
+
+#: admin/customizer-options.php:133
+msgid "展示所有最新文章的页面链接"
+msgstr ""
+
+#: admin/customizer-options.php:141
+msgid "首页文章自动获取摘要字数"
+msgstr ""
+
+#: admin/customizer-options.php:149
+msgid "文章列表自动获取摘要字数"
+msgstr ""
+
+#: admin/customizer-options.php:157
+msgid "在文章列表的第几篇文章后显示广告？"
+msgstr ""
+
+#: admin/customizer-options.php:166
+msgid "在文章列表显示文章所属分类目录"
+msgstr ""
+
+#: admin/customizer-options.php:174
+msgid "在文章列表显示作者头像"
+msgstr ""
+
+#: admin/customizer-options.php:182
+msgid "在文章列表显示作者名字"
+msgstr ""
+
+#: admin/customizer-options.php:190
+msgid "在文章列表显示文章发布时间"
+msgstr ""
+
+#: admin/customizer-options.php:198
+msgid "在文章列表显示评论数"
+msgstr ""
+
+#: admin/customizer-options.php:207
+msgid "文章列表分页样式"
+msgstr ""
+
+#: admin/customizer-options.php:216
+msgid "文章列表无限分页面正在加载描述"
+msgstr ""
+
+#: admin/customizer-options.php:219
+msgid "正在加载中..."
+msgstr ""
+
+#: admin/customizer-options.php:224
+msgid "文章列表无限分页面加载完成描述"
+msgstr ""
+
+#: admin/customizer-options.php:227
+msgid "已加载所有文章"
+msgstr ""
+
+#: admin/customizer-options.php:232
+msgid "在文章页面显示浏览位置"
+msgstr ""
+
+#: admin/customizer-options.php:240
+msgid "在文章页面启用百度分享"
+msgstr ""
+
+#: admin/customizer-options.php:248
+msgid "在文章页面显示作者头像"
+msgstr ""
+
+#: admin/customizer-options.php:256
+msgid "在文章页面显示作者名字"
+msgstr ""
+
+#: admin/customizer-options.php:264
+msgid "在文章页面显示文章发布时间"
+msgstr ""
+
+#: admin/customizer-options.php:272
+msgid "在文章页面显示评论数"
+msgstr ""
+
+#: admin/customizer-options.php:280
+msgid "在文章页面（内容顶部）显示特色图片"
+msgstr ""
+
+#: admin/customizer-options.php:288
+msgid "在文章页面（内容底部）显示点赞按钮"
+msgstr ""
+
+#: admin/customizer-options.php:296
+msgid "在文章页面显示作者说明"
+msgstr ""
+
+#: admin/customizer-options.php:304
+msgid "在文章页面显示相关文章（为您推荐）"
+msgstr ""
+
+#: admin/customizer-options.php:312
+msgid "关闭网站评论列表和评论框"
+msgstr ""
+
+#: admin/customizer-options.php:320
+msgid "在移动设备中隐藏右侧边栏"
+msgstr ""
+
+#: admin/customizer-options.php:328
+msgid "在移动设备中隐藏底部小工具"
+msgstr ""
+
+#: admin/customizer-options.php:336
+msgid "在网站底部右侧显示“返回顶部”按钮"
+msgstr ""
+
+#: admin/customizer-options.php:344
+msgid "网站底部版权信息/链接"
+msgstr ""
+
+#: admin/extensions/fonts.php:18
+msgid "Standard Fonts"
+msgstr ""
+
+#: admin/extensions/fonts.php:20
+msgid "Google Fonts"
+msgstr ""
+
+#: admin/extensions/fonts.php:125
+msgid "All"
+msgstr ""
+
+#: admin/extensions/fonts.php:126
+msgid "Cyrillic"
+msgstr ""
+
+#: admin/extensions/fonts.php:127
+msgid "Cyrillic Extended"
+msgstr ""
+
+#: admin/extensions/fonts.php:128
+msgid "Devanagari"
+msgstr ""
+
+#: admin/extensions/fonts.php:129
+msgid "Greek"
+msgstr ""
+
+#: admin/extensions/fonts.php:130
+msgid "Greek Extended"
+msgstr ""
+
+#: admin/extensions/fonts.php:131
+msgid "Khmer"
+msgstr ""
+
+#: admin/extensions/fonts.php:132
+msgid "Latin"
+msgstr ""
+
+#: admin/extensions/fonts.php:133
+msgid "Latin Extended"
+msgstr ""
+
+#: admin/extensions/fonts.php:134
+msgid "Vietnamese"
+msgstr ""
+
+#: comments.php:31
+msgid "评论已关闭"
+msgstr ""
+
+#: comments.php:63 comments.php:84
+msgid "评论分页"
+msgstr ""
+
+#: footer.php:64
+msgid "主题巴巴原创"
+msgstr ""
+
+#: footer.php:85
+msgid "返回顶部"
+msgstr ""
+
+#: header.php:191
+msgid "请设置顶部菜单"
+msgstr ""
+
+#: header.php:202
+msgid "请输入关键词"
+msgstr ""
+
+#: header.php:307
+msgid "请设置主菜单"
+msgstr ""
+
+#: inc/template-tags.php:24
+msgid "阅读"
+msgstr ""
+
+#: inc/template-tags.php:106
+#, php-format
+msgid "浏览所有%s文章"
+msgstr ""
+
+#: inc/widgets/widget-ad.php:97 inc/widgets/widget-home-block-one-b.php:131
+#: inc/widgets/widget-home-block-one.php:131 inc/widgets/widget-popular.php:149
+#: inc/widgets/widget-random.php:132 inc/widgets/widget-recent.php:151
+#: inc/widgets/widget-views.php:136
+msgid "标题"
+msgstr ""
+
+#: inc/widgets/widget-ad.php:104
+msgid "广告代码"
+msgstr ""
+
+#: inc/widgets/widget-home-block-one-b.php:23
+#: inc/widgets/widget-home-block-one.php:23
+#: inc/widgets/widget-home-block-three.php:23
+#: inc/widgets/widget-home-block-two.php:23
+msgid "只能添加到“首页内容(栏目)”"
+msgstr ""
+
+#: inc/widgets/widget-home-block-one-b.php:29
+msgid "&raquo; 首页内容 - 1个栏目（B）"
+msgstr ""
+
+#: inc/widgets/widget-home-block-one-b.php:137
+#: inc/widgets/widget-home-block-one.php:137
+#: inc/widgets/widget-home-carousel.php:128
+msgid "选择一个分类目录"
+msgstr ""
+
+#: inc/widgets/widget-home-block-one-b.php:140
+#: inc/widgets/widget-home-block-one.php:140
+#: inc/widgets/widget-home-block-three.php:103
+#: inc/widgets/widget-home-block-three.php:114
+#: inc/widgets/widget-home-block-three.php:125
+#: inc/widgets/widget-home-block-two.php:97
+#: inc/widgets/widget-home-block-two.php:108
+#: inc/widgets/widget-home-carousel.php:131
+msgid "所有分类目录 &hellip;"
+msgstr ""
+
+#: inc/widgets/widget-home-block-one-b.php:149
+#: inc/widgets/widget-home-block-one.php:149
+#: inc/widgets/widget-home-carousel.php:140 inc/widgets/widget-popular.php:156
+#: inc/widgets/widget-random.php:139 inc/widgets/widget-recent.php:158
+#: inc/widgets/widget-views.php:143
+msgid "要显示的文章数"
+msgstr ""
+
+#: inc/widgets/widget-home-block-one.php:29
+msgid "&raquo; 首页内容 - 1个栏目（A）"
+msgstr ""
+
+#: inc/widgets/widget-home-block-three.php:29
+msgid "&raquo; 首页内容 - 3个栏目"
+msgstr ""
+
+#: inc/widgets/widget-home-block-three.php:100
+#: inc/widgets/widget-home-block-two.php:94
+msgid "选择一个分类目录（第一列）"
+msgstr ""
+
+#: inc/widgets/widget-home-block-three.php:111
+#: inc/widgets/widget-home-block-two.php:105
+msgid "选择一个分类目录（第二列）"
+msgstr ""
+
+#: inc/widgets/widget-home-block-three.php:122
+msgid "选择一个分类目录（第三列）"
+msgstr ""
+
+#: inc/widgets/widget-home-block-three.php:134
+#: inc/widgets/widget-home-block-two.php:117
+msgid "每个分类目录要显示的文章数"
+msgstr ""
+
+#: inc/widgets/widget-home-block-two.php:29
+msgid "&raquo; 首页内容 - 2个栏目"
+msgstr ""
+
+#: inc/widgets/widget-home-carousel.php:23
+msgid "只能添加到“首页底部 - 幻灯片轮播”"
+msgstr ""
+
+#: inc/widgets/widget-home-carousel.php:29
+msgid "&raquo; 首页底部 - 幻灯片轮播"
+msgstr ""
+
+#: inc/widgets/widget-newsletter.php:97
+msgid "Title"
+msgstr ""
+
+#: inc/widgets/widget-newsletter.php:104
+msgid "Subscribe Form Code"
+msgstr ""
+
+#: inc/widgets/widget-popular.php:23
+msgid "显示评论最多的文章"
+msgstr ""
+
+#: inc/widgets/widget-popular.php:29
+msgid "&raquo; 评论最多的文章"
+msgstr ""
+
+#: inc/widgets/widget-popular.php:164 inc/widgets/widget-random.php:147
+#: inc/widgets/widget-recent.php:166 inc/widgets/widget-views.php:151
+msgid "显示文章日期?"
+msgstr ""
+
+#: inc/widgets/widget-random.php:23
+msgid "显示随机的文章"
+msgstr ""
+
+#: inc/widgets/widget-random.php:29
+msgid "&raquo; 随机文章"
+msgstr ""
+
+#: inc/widgets/widget-recent.php:23
+msgid "显示最新的文章"
+msgstr ""
+
+#: inc/widgets/widget-recent.php:29
+msgid "&raquo; 最新的文章"
+msgstr ""
+
+#: inc/widgets/widget-views.php:23
+msgid "显示浏览次数最多的文章"
+msgstr ""
+
+#: inc/widgets/widget-views.php:29
+msgid "&raquo; 浏览最多的文章"
+msgstr ""
+
+#: index.php:16
+msgid "请将“首页内容 - 1/2/3个栏目”和“广告”小工具添加到<strong>首页内容（栏目）</strong>区域。"
+msgstr ""
+
+#: index.php:18
+msgid "好的，我现在就去设置 &raquo;"
+msgstr ""
+
+#: index.php:18
+msgid "教我如何设置 &raquo;"
+msgstr ""
+
+#: page-templates/all-posts.php:22
+msgid "最新文章 "
+msgstr ""
+
+#: sidebar-home.php:26
+msgid "请在<strong>右侧边栏（首页）</strong>中添加小工具。"
+msgstr ""
+
+#: sidebar-home.php:27 sidebar.php:23
+msgid "好的，我现在就去添加 &raquo;"
+msgstr ""
+
+#: sidebar.php:22
+msgid "请在<strong>右侧边栏</strong>添加小工具。"
+msgstr ""
+
+#: single.php:23
+msgid "您所在的位置"
+msgstr ""
+
+#: single.php:24
+msgid "首页"
+msgstr ""
+
+#: template-parts/block-one-b-content.php:7
+#: template-parts/block-one-content.php:7
+#: template-parts/block-three-content.php:5
+#: template-parts/block-two-content.php:5 template-parts/home-carousel.php:4
+msgid "最新文章"
+msgstr ""
+
+#: template-parts/block-one-b-content.php:9
+#: template-parts/block-one-content.php:9
+#: template-parts/block-three-content.php:7
+#: template-parts/block-two-content.php:7
+msgid "更多"
+msgstr ""
+
+#: template-parts/content-none.php:14
+msgid "找不到相关结果"
+msgstr ""
+
+#: template-parts/content-none.php:21
+msgid "准备好发布您的第一篇文章了吗?"
+msgstr ""
+
+#: template-parts/content-none.php:21
+msgid "现在开始"
+msgstr ""
+
+#: template-parts/content-none.php:26
+msgid "您输入的关键字无相关结果，请尝试其他关键字。"
+msgstr ""
+
+#: template-parts/content-none.php:32
+msgid "无相关结果，请返回首页，或输入关键字搜索相应结果。"
+msgstr ""
+
+#: template-parts/content-single.php:39
+#, php-format
+msgid "阅读全文 %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: template-parts/content-single.php:88
+msgid "关于作者:"
+msgstr ""
+
+#: template-parts/content-single.php:135
+msgid "为您推荐"
+msgstr ""
+
+#: template-parts/pagination.php:9
+msgid "已经没有更多文章了"
+msgstr ""
+
+#: template-parts/pagination.php:15
+msgid "上一页"
+msgstr ""
+
+#: template-parts/pagination.php:15
+msgid "下一页"
+msgstr ""
